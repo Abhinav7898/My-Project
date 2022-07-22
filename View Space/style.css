@@ -4,17 +4,14 @@
 }
 .logo{
     font-family: 'Koulen', cursive;
-    /* font-family: 'Kdam Thmor Pro', sans-serif; */
     font-weight: bold;
     color: white;
     font-size: 30px;
     margin-left: 5px;
 }
 #logo1{
-    font-family: 'Bangers', cursive;
-    /* color:olivedrab; */
-    
-    font-size: 70px;
+    font-family: 'Metal Mania', cursive;
+    font-size: 80px;
 }
 .home{
      font-family: 'Kdam Thmor Pro', sans-serif;
@@ -23,5 +20,21 @@
      margin-left: 50px;
 }
 .home:hover{
+    color: red;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    
+}
+.footer-back{
+    background-color: black;
+}
+.footer-text{
+    font-weight: 100;
+    cursor: pointer;
+    color: white;
+}
+.footer-text:hover{
     color: red;
 }
