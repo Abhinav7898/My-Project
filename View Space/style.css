@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    font-family: 'Koulen', cursive;
+    /* font-family: 'Kdam Thmor Pro', sans-serif; */
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.home{
+     font-family: 'Kdam Thmor Pro', sans-serif;
+     font-weight: bold;
+     color: white;
+     margin-left: 50px;
+}
+.home:hover{
+    color: red;
+}
