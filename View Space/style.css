@@ -10,6 +10,12 @@
     font-size: 30px;
     margin-left: 5px;
 }
+#logo1{
+    font-family: 'Bangers', cursive;
+    /* color:olivedrab; */
+    
+    font-size: 70px;
+}
 .home{
      font-family: 'Kdam Thmor Pro', sans-serif;
      font-weight: bold;
